@@ -3,8 +3,8 @@
   "version": "2.0.0",
   "homepage": "https://github.com/sergANTstar/goit-js-hw-10/",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,6 @@
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js",
+
   "description": ""
 }
